@@ -1,0 +1,15 @@
+{
+  "name": "test_pm2_reload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fend25",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.0.0",
+    "koa-logger": "^2.0.0"
+  }
+}
