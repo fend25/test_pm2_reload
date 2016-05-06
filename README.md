@@ -10,7 +10,7 @@ npm install
 ```bash
 cd test_pm2_reload
 pm2 start deploy.js --name "deploy"
-pm2 start main.js --name "main"
+pm2 start main.js --name "test_pm2_main"
 pm2 logs
 ```
 
